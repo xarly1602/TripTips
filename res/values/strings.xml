@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TripTips</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="hello_world"> </string>
+    
+       <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+
+</resources>
